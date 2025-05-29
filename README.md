@@ -2,7 +2,7 @@
 
 - Here are some of my designed kitchens that are already installed for endusers.
 - These projects are part of my previous career as a kitchen furniture designer, where I focused on OPTIMIZING SPACES and CREATING FUNCTIONAL, aesthetically pleasing DESIGN for clients.
-- While I no longer pursue this line of work, I bring these foundational skills of USER-CENTRIC DESIGN and PROBLEM-SOLVING into my current UX/UI work.
+- I bring these foundational skills of USER-CENTRIC DESIGN and PROBLEM-SOLVING into my current UX/UI work.
 
 
 ![20](https://github.com/user-attachments/assets/5c463a32-c9c3-4979-902e-18d269b0c241)
