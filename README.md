@@ -1,7 +1,7 @@
 # Kitchen Design Projects – Client-Focused Design Solutions
 
 - Here are some of my designed kitchens that are already installed for endusers.
-- These projects are part of my previous career as a kitchen furniture designer, where I focused on OPTIMIZING SPACES and CREATING FUNCTIONAL, aesthetically pleasing DESIGN for clients.
+- These projects are part of my career as a kitchen furniture designer, where I focuse on OPTIMIZING SPACES and CREATING FUNCTIONAL, aesthetically pleasing DESIGN for clients.
 - I bring these foundational skills of USER-CENTRIC DESIGN and PROBLEM-SOLVING into my current UX/UI work.
 
 
